@@ -130,18 +130,21 @@ tqdm>=4.41.0
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
+1. Set root directory
 2. Clone the repo
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
    ```
-3. Install NPM packages
+3. Install Packages
    ```sh
-   npm install
+   !pip install -U -r requirements.txt  # install dependencies
    ```
-4. Enter your API in `config.js`
+4. Import package
    ```JS
-   const API_KEY = 'ENTER YOUR API';
+  import torch
+from IPython.display import Image  # for displaying images
+from utils.google_utils import gdrive_download  # for downloading models/datasets
+
    ```
 
 

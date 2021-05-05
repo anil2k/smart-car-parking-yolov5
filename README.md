@@ -107,11 +107,17 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+These libra are needed for to run this projects locally.
+matplotlib>=3.2.2
+numpy>=1.18.5
+opencv-python>=4.1.2
+Pillow
+PyYAML>=5.3.1
+scipy>=1.4.1
+torch>=1.7.0
+torchvision>=0.8.1
+tqdm>=4.41.0
+
 
 ### Installation
 

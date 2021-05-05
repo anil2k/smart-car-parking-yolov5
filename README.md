@@ -28,11 +28,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/anil2k/smart-car-parking-yolov5">
     <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">smart-car-parking-yolov5</h3>
 
   <p align="center">
     An awesome project to jumpstart your own car parking projects !

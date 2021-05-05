@@ -39,11 +39,11 @@
     <a href="https://github.com/anil2kk/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/anil2k/smart-car-parking-yolov5/issues">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/anil2kk/issues">Report Bug</a>
+    <a href="https://github.com/anil2k/smart-car-parking-yolov5/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/anil2kk/issues">Request Feature</a>
+    <a href="https://github.com/anil2k/smart-car-parking-yolov5/issues">Request Feature</a>
   </p>
 </p>
 

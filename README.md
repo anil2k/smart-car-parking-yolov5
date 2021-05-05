@@ -108,14 +108,23 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 These libra are needed for to run this projects locally.
+
 matplotlib>=3.2.2
+
 numpy>=1.18.5
+
 opencv-python>=4.1.2
+
 Pillow
+
 PyYAML>=5.3.1
+
 scipy>=1.4.1
+
 torch>=1.7.0
+
 torchvision>=0.8.1
+
 tqdm>=4.41.0
 
 

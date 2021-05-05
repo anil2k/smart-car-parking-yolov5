@@ -140,7 +140,7 @@ tqdm>=4.41.0
    !pip install -U -r requirements.txt  # install dependencies
    ```
 4. Import package
-   ```JS
+   ```sh
   import torch
 from IPython.display import Image  # for displaying images
 from utils.google_utils import gdrive_download  # for downloading models/datasets

@@ -134,9 +134,12 @@ tqdm>=4.41.0
 1. Set root directory
 2. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/anil2k/smart-car-parking-yolov5.git
    ```
-3. Install Packages
+3. Set directory for yolov5
+   ```sh
+   cd root_dir/yolov5
+5. Install Packages
    ```sh
    !pip install -U -r requirements.txt  # install dependencies
    ```

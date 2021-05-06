@@ -18,9 +18,8 @@
 <!-- [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url
-[![MIT License][license-shield]][license-url]]
-[![Issues][issues-shield]][issues-url]-->
-
+[![MIT License][license-shield]][license-url]]-->
+[![YouTube][youtube-shield]][youtube-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -212,8 +211,9 @@ Project Link: [https://github.com/anil2k/smart-car-parking-yolov5](https://githu
 [stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
 [issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+
+[youtube-shield]: https://img.shields.io/badge/-youtube-black.svg?style=for-the-badge&logo=youtube&colorR=555
+[youtube-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]:  https://linkedin.com/in/anil2kk
 [product-screenshot]: park.gif

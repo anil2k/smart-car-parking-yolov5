@@ -213,7 +213,7 @@ Project Link: [https://github.com/anil2k/smart-car-parking-yolov5](https://githu
 [issues-url]: https://github.com/othneildrew/Best-README-Template/issues
 
 [youtube-shield]: https://img.shields.io/badge/-youtube-black.svg?style=for-the-badge&logo=youtube&colorR=555
-[youtube-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[youtube-url]: https://www.youtube.com/watch?v=B0EuijnaCqU&ab_channel=RelaxingNature
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]:  https://linkedin.com/in/anil2kk
 [product-screenshot]: park.gif

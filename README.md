@@ -82,6 +82,8 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
+_link to video output, please refer to the [Youtube](https://youtu.be/B0EuijnaCqU)_
+
 There are many great car parking lot detection projects available on GitHub, however I didn<t find that really suit my needs so I created this enhenced one. I want to create project that will  will be the last one you ever need.
 
 Here's why:
